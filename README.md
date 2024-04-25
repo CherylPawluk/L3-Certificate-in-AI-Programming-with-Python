@@ -1,1 +1,1 @@
-These .txt/.py files are the programs used for Coding in Python unit.
+These .txt/.py files are used in the Coding with Python (J/650/0758) unit, during the lessons.
